@@ -1,0 +1,26 @@
+服务器账号密码
+
+hostname：10.255.53.4   
+username：jdgcxy_4680_01    
+密码：xdxxc@2022
+——————————————————
+Hang0422
+初始转入代码文件：
+cd ../../data/LYC/code/transformer/lycnet/RGBT
+初始转入记录文件：
+  cd ../../data/LYC/code/dragonNet_content
+从记录文件转入代码文件：   
+ cd ../transformer/lycnet/RGBT
+从代码文件转入记录文件： 
+cd ../../../dragonNet_content
+sz lyc_result_bise5.txt
+sz lyc_result_bise3.txt
+初始进入直接保存：
+cd ../../data/LYC/code/dragonNet_content && sz lyc_result_bise5.txt && sz lyc_result_bise4.txt && sz lyc_result_bise3.txt && sz lyc_result_bise2.txt && cd ../../../..
+直接保存：
+ sz lyc_result_bise5.txt && sz lyc_result_bise4.txt && sz lyc_result_bise3.txt && sz lyc_result_bise2.txt
+
+——————————————————————————————————————————
+cd lyc && sz lyc_result_bise.txt && sz lyc_result_bise0.txt && sz lyc_result_bise1.txt && sz lyc_result_bise2.txt
+
+sz lyc_result_bise.txt && sz lyc_result_bise0.txt && sz lyc_result_bise1.txt
